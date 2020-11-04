@@ -19,7 +19,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.uc.appstudent24okt.Model.Student;
-import com.uc.appstudent24okt.adapter.StudentAdapter;
+import com.uc.appstudent24okt.Course.StudentAdapter;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;

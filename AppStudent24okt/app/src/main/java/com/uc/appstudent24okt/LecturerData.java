@@ -13,8 +13,9 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.uc.appstudent24okt.Lecturer.AddLecturer;
 import com.uc.appstudent24okt.Model.Lecturer;
-import com.uc.appstudent24okt.adapter.LecturerAdapter;
+import com.uc.appstudent24okt.Lecturer.LecturerAdapter;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;

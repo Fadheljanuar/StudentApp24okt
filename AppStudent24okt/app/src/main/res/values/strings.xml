@@ -11,6 +11,9 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="img">img</string>
     <string name="loading">loading...</string>
+    <string name="AddCourse">addcoure</string>
+    <string name="BtnAddCourse" />
+    <string name="editcourse" />
 
     <string-array name="day">
         <item>Monday</item>

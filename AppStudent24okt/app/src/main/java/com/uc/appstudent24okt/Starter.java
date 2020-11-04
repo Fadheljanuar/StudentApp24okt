@@ -7,6 +7,8 @@ import android.widget.Button;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.uc.appstudent24okt.Lecturer.AddLecturer;
+
 public class Starter extends AppCompatActivity {
 
     Button course, lecturer, login, register;

@@ -19,6 +19,7 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
+import com.uc.appstudent24okt.Lecturer.AddLecturer;
 import com.uc.appstudent24okt.Model.Lecturer;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
