@@ -8,6 +8,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
+import com.uc.appstudent24okt.Student.StudentMainActivity;
 
 public class SplashScreen extends AppCompatActivity {
 

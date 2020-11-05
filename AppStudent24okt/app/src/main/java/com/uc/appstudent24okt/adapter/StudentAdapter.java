@@ -1,4 +1,4 @@
-package com.uc.appstudent24okt.adapter;
+package com.uc.appstudent24okt.Adapter;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -14,8 +14,8 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.uc.appstudent24okt.Model.Student;
 import com.uc.appstudent24okt.R;
-import com.uc.appstudent24okt.StudentData;
-import com.uc.appstudent24okt.StudentRegister;
+import com.uc.appstudent24okt.Student.StudentData;
+import com.uc.appstudent24okt.Student.StudentRegister;
 
 import java.util.ArrayList;
 

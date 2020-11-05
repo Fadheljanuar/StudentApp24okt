@@ -16,7 +16,7 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
-import com.uc.appstudent24okt.Course.EnrollAdaptor;
+import com.uc.appstudent24okt.Adapter.EnrollAdaptor;
 import com.uc.appstudent24okt.Model.Course;
 import com.uc.appstudent24okt.R;
 

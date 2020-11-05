@@ -19,7 +19,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 import com.uc.appstudent24okt.Model.Course;
 import com.uc.appstudent24okt.R;
-import com.uc.appstudent24okt.Course.ScheduleAdapter;
+import com.uc.appstudent24okt.Adapter.ScheduleAdapter;
 
 import java.util.ArrayList;
 

@@ -25,7 +25,6 @@ import com.google.android.material.textfield.TextInputLayout;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.uc.appstudent24okt.Glovar;
-import com.uc.appstudent24okt.LecturerData;
 import com.uc.appstudent24okt.Model.Lecturer;
 import com.uc.appstudent24okt.R;
 import com.uc.appstudent24okt.Starter;
